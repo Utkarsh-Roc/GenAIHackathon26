@@ -83,9 +83,13 @@ flowpilot/
 
 ## 📸 Screenshots
 
-| Initial Session Page         | Session-Started              | Events                |
-| ---------------------------- | ---------------------------- | ---------------------------- |
-| ![](./public/Initial_session.png) | ![](./public/Session_started.png) | ![](./public/Events.png) |
+| Initial Session Page       | Session-Started            | Events            |
+| -------------------------- | -------------------------- | ----------------- |
+| ![](./Initial_session.png) | ![](./Session_started.png) | ![](./Events.png) |
+
+| Calendar-Before-Prompts                | Calendar-After-Prompts                |
+| -------------------------------------- | ------------------------------------- |
+| ![](./screenshots/calendar_before.png) | ![](./screenshots/calendar_after.png) |
 
 ---
 
