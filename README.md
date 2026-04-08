@@ -85,11 +85,11 @@ flowpilot/
 
 | Initial Session Page       | Session-Started            | Events            |
 | -------------------------- | -------------------------- | ----------------- |
-| ![](./Initial_session.png) | ![](./Session_started.png) | ![](./Events.png) |
+| ![](./public/Initial_session.png) | ![](./public/Session_started.png) | ![](./public/Events.png) |
 
 | Calendar-Before-Prompts                | Calendar-After-Prompts                |
 | -------------------------------------- | ------------------------------------- |
-| ![](./screenshots/calendar_before.png) | ![](./screenshots/calendar_after.png) |
+| ![](./public/calendar_before.png) | ![](./public/calendar_after.png) |
 
 ---
 
