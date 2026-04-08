@@ -1,0 +1,6 @@
+google-adk==1.14.0
+google-cloud-firestore==2.19.0
+google-cloud-logging==3.11.4
+google-auth==2.40.1
+google-api-python-client==2.157.0
+python-dotenv==1.0.1

@@ -1,0 +1,30 @@
+# Environment — contains project IDs and service account emails
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Secrets / credentials — never commit these
+*.json
+client_secret*.json
+calendar_token*.json
+*credentials*.json
+service_account*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ADK build artifacts
+.adk/
